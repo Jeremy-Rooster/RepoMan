@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://hiddenscotland.co/wp-content/uploads/2021/02/Tolcross-Park.jpg");
+    background-size: cover;
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+    color:#ffffff;
+
+}
+
+.counter {
+
+    max-width: 300px;
+    min-width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:50px;
+   border: solid #fff 1px;
+   border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border-width: 1px;
+    border-color: #fff;
+    border-style: solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkgoldenrod;
+}
+
+#save-btn {
+    background: lightseagreen;
+}
+
+#save-el {color: #fff;}
